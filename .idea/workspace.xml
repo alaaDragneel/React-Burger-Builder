@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="987d4710-a3d4-4a87-8313-e9ec853e4aac" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>react-app</find>
+      <find>&quot;react-app&quot;</find>
+      <find>test</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/config/webpack.config.prod.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="eject" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="npm.eject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="987d4710-a3d4-4a87-8313-e9ec853e4aac" name="Default" comment="" />
+      <created>1524390341494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524390341494</updated>
+      <workItem from="1524390347949" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="684000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2489019" sideWeight="0.50554675" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.49445325" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1523942373650" expanded="true" signature="7:92" ph="..." />
+            <marker date="1523942373650" expanded="true" signature="122:502" ph="{...}" />
+            <marker date="1523942373650" expanded="true" signature="135:500" ph="{...}" />
+            <marker date="1523942373650" expanded="true" signature="156:489" ph="&lt;div/&gt;" />
+            <marker date="1523942373650" expanded="true" signature="186:354" ph="&lt;header/&gt;" />
+            <marker date="1523942373650" expanded="true" signature="363:476" ph="&lt;p/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <marker date="1524390533079" expanded="true" signature="0:2486" ph="{&quot;name&quot;: &quot;react-app&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="84:1342" ph="{&quot;autoprefixer&quot;: &quot;7.1.6&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="1357:1485" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="1497:2373" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="1526:1563" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="1583:1628" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="1647:1763" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="1848:2065" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="2098:2158" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="2184:2234" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1524390533079" expanded="true" signature="2264:2369" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="2386:2432" ph="{...}" />
+            <marker date="1524390533079" expanded="true" signature="2403:2428" ph="[...]" />
+            <marker date="1524390533079" expanded="true" signature="2452:2484" ph="{&quot;extends&quot;: &quot;react-app&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="167" column="86" lean-forward="true" selection-start-line="166" selection-start-column="36" selection-end-line="167" selection-end-column="86" />
+          <folding>
+            <marker date="1524390958674" expanded="true" signature="664:817" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="842:1076" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="1198:1374" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="1392:11541" ph="{&quot;devtool&quot;: 'cheap-module-source-map'...}" />
+            <marker date="1524390958674" expanded="true" signature="1395:1571" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="1610:1815" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="1824:2940" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="1903:2617" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="2737:2937" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="2951:3703" ph="{&quot;filename&quot;: 'static/js/bundle.js'...}" />
+            <marker date="1524390958674" expanded="true" signature="3045:3260" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="3715:5362" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="3719:4015" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="4210:4579" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="4662:4838" ph="{&quot;react-native&quot;: 'react-native-web'...}" />
+            <marker date="1524390958674" expanded="true" signature="4668:4795" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="4851:5358" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="4856:5288" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="5373:9213" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="5414:9209" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="5419:5627" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="5632:5720" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="5724:5995" ph="{&quot;enforce&quot;: 'pre'...}" />
+            <marker date="1524390958674" expanded="true" signature="5784:5962" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="5791:5955" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="5808:5899" ph="{&quot;formatter&quot;: eslintFormatter...}" />
+            <marker date="1524390958674" expanded="true" signature="6000:9091" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="6006:6198" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="6210:9085" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="6217:6415" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="6421:6630" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="6541:6622" ph="{&quot;name&quot;: 'static/media/[name].[hash:8].[ext]'...}" />
+            <marker date="1524390958674" expanded="true" signature="6668:7034" ph="{&quot;include&quot;: paths.appSrc...}" />
+            <marker date="1524390958674" expanded="true" signature="6792:7026" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="6802:6989" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="7041:7384" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="7390:8293" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="7425:8285" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="7474:7687" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="7540:7677" ph="{&quot;localIdentName&quot;: '[name]__[local]__[hash:base64:5]'...}" />
+            <marker date="1524390958674" expanded="true" signature="7696:8276" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="7766:8266" ph="{&quot;ident&quot;: 'postcss'...}" />
+            <marker date="1524390958674" expanded="true" signature="7777:7900" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="7952:8255" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="8022:8242" ph="{&quot;flexbox&quot;: 'no-2009'...}" />
+            <marker date="1524390958674" expanded="true" signature="8045:8198" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="8300:8623" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="8629:9078" ph="{...}" />
+            <marker date="1524390958674" expanded="true" signature="8637:8888" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="9010:9070" ph="{&quot;name&quot;: 'static/media/[name].[hash:8].[ext]'...}" />
+            <marker date="1524390958674" expanded="true" signature="9096:9205" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="9225:11086" ph="[...]" />
+            <marker date="1524390958674" expanded="true" signature="9229:9474" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="9601:9651" ph="{&quot;template&quot;: paths.appHtml...}" />
+            <marker date="1524390958674" expanded="true" signature="9771:9919" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="10076:10284" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="10321:10615" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="10677:11028" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="11089:11235" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="11243:11338" ph="{&quot;dgram&quot;: 'empty'...}" />
+            <marker date="1524390958674" expanded="true" signature="11341:11503" ph="//..." />
+            <marker date="1524390958674" expanded="true" signature="11518:11538" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="186" column="98" lean-forward="false" selection-start-line="186" selection-start-column="98" selection-end-line="186" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

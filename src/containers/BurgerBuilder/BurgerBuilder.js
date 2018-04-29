@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import Auxu from "../../hoc/Auxu";
+import Auxu from "../../hoc/Auxu/Auxu";
 import Burger from "../../components/Burger/Burger";
 import BuildControls from "../../components/Burger/BuildControls/BuildControls";
 import Model from "../../components/UI/Model/Model";
